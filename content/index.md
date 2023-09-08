@@ -1,6 +1,6 @@
 
 
-# Welcome to my data portal!
+# Welcome to Amos Lieberman's data portal!
 
 List of available datasets:
 
