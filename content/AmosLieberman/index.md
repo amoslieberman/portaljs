@@ -6,6 +6,7 @@ group: 'Front End Engineer'
 ---
 
 ## Who am I
+### * [Amos Lieberman (LinkedIn)](https://www.linkedin.com/in/amos-lieberman/)
 I am a **Senior Front-end Software Engineer** with close to 10 years experience 
 
 In my next role I am looking for mission driven work that will allow me to build tools that help explore data and continue to develop my interest in data visualization. **PortalJS seems like a great fit!**
